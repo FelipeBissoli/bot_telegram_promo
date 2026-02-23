@@ -1,0 +1,10 @@
+# Ambiente Virtual
+.venv/
+__pycache__/
+
+# Arquivos de Sessão do Telegram (Contêm suas chaves)
+*.session
+*.session-journal
+
+# Variáveis de Ambiente (Onde vamos esconder as chaves)
+.env
