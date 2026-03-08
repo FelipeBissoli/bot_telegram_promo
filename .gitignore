@@ -8,3 +8,6 @@ __pycache__/
 
 # Variáveis de Ambiente 
 .env
+
+# Ignora os dados colhidos em tempo real
+historico_produtos.csv
